@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "code": "P1000",
+      "nom": "Café",
+      "prixUnitaire": 1500.5
+    },
+    {
+      "id": 2,
+      "code": "P2000",
+      "nom": "Thé",
+      "prixUnitaire": 1000.5
+    },
+    {
+      "id": 3,
+      "code": "P3000",
+      "nom": "Coca Cola",
+      "prixUnitaire": 2000.5
+    },
+    {
+      "id": 4,
+      "code": "P4000",
+      "nom": "Jus d'Orange",
+      "prixUnitaire": 3000.5
+    },
+    {
+      "id": 10,
+      "code": "P2000",
+      "nom": "Lait",
+      "prixUnitaire": 1000.5
+    }
+  ]
+}
